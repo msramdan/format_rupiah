@@ -1,0 +1,17 @@
+{
+    "name": "msramdan/rupiah",
+    "description": "Package format rupiah",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Msramdan\\Rupiah\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Muhammad Saeful Ramdan"
+        }
+    ],
+    "require": {}
+}
